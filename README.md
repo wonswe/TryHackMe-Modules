@@ -36,33 +36,33 @@ A comprehensive TryHackMe learning path with organized sections on Introductory 
 
 ---
 
-- [ ]  [TryHackMe | Welcome](https://tryhackme.com/room/hello)
-- [ ]  [TryHackMe | How to use TryHackMe](https://tryhackme.com/room/howtousetryhackme)
-- [ ]  [TryHackMe | Tutorial](https://tryhackme.com/room/tutorial)
-- [ ]  [TryHackMe | OpenVPN](https://tryhackme.com/room/openvpn)
-- [ ]  [TryHackMe | Learning Cyber Security](https://tryhackme.com/room/beginnerpathintro)
-- [ ]  [TryHackMe | Starting Out In Cyber Sec](https://tryhackme.com/room/startingoutincybersec)
-- [ ]  [TryHackMe | Introductory Researching](https://tryhackme.com/room/introtoresearch)
-- [ ]  [TryHackMe | CC: Pen Testing](https://tryhackme.com/room/ccpentesting)
-- [ ]  [TryHackMe | Regular expressions](https://tryhackme.com/room/catregex) 
+- [x]  [TryHackMe | Welcome](https://tryhackme.com/room/hello)
+- [x]  [TryHackMe | How to use TryHackMe](https://tryhackme.com/room/howtousetryhackme)
+- [x]  [TryHackMe | Tutorial](https://tryhackme.com/room/tutorial)
+- [x]  [TryHackMe | OpenVPN](https://tryhackme.com/room/openvpn)
+- [x]  [TryHackMe | Learning Cyber Security](https://tryhackme.com/room/beginnerpathintro)
+- [x]  [TryHackMe | Starting Out In Cyber Sec](https://tryhackme.com/room/startingoutincybersec)
+- [x]  [TryHackMe | Introductory Researching](https://tryhackme.com/room/introtoresearch)
+- [x]  [TryHackMe | CC: Pen Testing](https://tryhackme.com/room/ccpentesting)
+- [x]  [TryHackMe | Regular expressions](https://tryhackme.com/room/catregex) 
 
 ## Linux Fundamentals
 
 ---
 
-- [ ]  [TryHackMe | Learn Linux](https://tryhackme.com/room/zthlinux)
-- [ ]  [TryHackMe | Linux Modules](https://tryhackme.com/room/linuxmodules) 
-- [ ]  [TryHackMe | Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)
-- [ ]  [TryHackMe | Linux Fundamentals Part 2](https://tryhackme.com/room/linuxfundamentalspart2)
-- [ ]  [TryHackMe | Linux Fundamentals Part 3](https://tryhackme.com/room/linuxfundamentalspart3)
+- [x]  [TryHackMe | Learn Linux](https://tryhackme.com/room/zthlinux)
+- [x]  [TryHackMe | Linux Modules](https://tryhackme.com/room/linuxmodules) 
+- [x]  [TryHackMe | Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)
+- [x]  [TryHackMe | Linux Fundamentals Part 2](https://tryhackme.com/room/linuxfundamentalspart2)
+- [x]  [TryHackMe | Linux Fundamentals Part 3](https://tryhackme.com/room/linuxfundamentalspart3)
 
 ## Network Basics
 
 ---
 
-- [ ]  [Introductory Networking](https://tryhackme.com/jr/introtonetworking)
-- [ ]  [NMAP](https://tryhackme.com/jr/furthernmap)
-- [ ]  [Network Services](https://tryhackme.com/jr/networkservices)
+- [x]  [Introductory Networking](https://tryhackme.com/jr/introtonetworking)
+- [x]  [NMAP](https://tryhackme.com/jr/furthernmap)
+- [x]  [Network Services](https://tryhackme.com/jr/networkservices)
 - [ ]  [Network Service 2](https://tryhackme.com/jr/networkservices2)
 
 ## Windows Exploitation Basics
