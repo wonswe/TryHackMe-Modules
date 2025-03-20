@@ -71,7 +71,7 @@ A comprehensive TryHackMe learning path with organized sections on Introductory 
 
 - [x]  [TryHackMe | Windows Fundamentals 1](https://tryhackme.com/room/windowsfundamentals1xbx)
 - [x]  [TryHackMe | Windows Fundamentals 2](https://tryhackme.com/room/windowsfundamentals2x0x)
-- [ ]  [TryHackMe | Windows Fundamentals 3](https://tryhackme.com/room/windowsfundamentals3xzx)
+- [x]  [TryHackMe | Windows Fundamentals 3](https://tryhackme.com/room/windowsfundamentals3xzx)
 - [ ]  [Active Directory Basics](https://tryhackme.com/jr/winadbasics)
 - [ ]  [Metasploit : Intro](https://tryhackme.com/jr/metasploitintro)
 - [ ]  [Metasploit : Exploitation](https://tryhackme.com/jr/metasploitexploitation)
